@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/bottom_navigation_prime"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/connect_icon"
+        android:title="Connect" />
+    <item
+        android:id="@+id/bottom_navigation_linear_equation"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/download_icon"
+        android:title="Download" />
+    <item
+        android:id="@+id/bottom_navigation_food_manager"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/upload_icon"
+        android:title="Upload" />
+</menu>
